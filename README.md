@@ -1,2 +1,5 @@
 # mv-LOL
-april fools 2023 for miiverse clone community, have fun lol
+source code for this trashy clone/april fools thingy
+# do you plan to make a clone anytime soon?
+**for now, currently not.
+it may change, only the future can tell**
