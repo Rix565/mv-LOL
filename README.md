@@ -14,3 +14,5 @@ if you really want a real, good-looking clone, you can go fuck yourself.
 for real tho, i made one: https://github.com/OldverseMVC/Oldverse
 
 **please dont use it or consequences**
+# can i use this website?
+sure. its under wtfpl. if you use it somehow i wonder why
